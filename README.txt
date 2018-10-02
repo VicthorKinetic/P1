@@ -46,4 +46,4 @@ e sem muita dificuldade.
 
 Pelo exercício proposto, a arquitetura de mestre e escravo foi escolhida por sua simplicidade, e foi mais que 
 o suficiente para o executar sem muitos gargálos, não necessitando de algo mais complexo como cliente e servidor 
-ou peer to peer.
+ou peer to peer. 
