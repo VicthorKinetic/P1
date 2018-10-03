@@ -34,19 +34,17 @@ class Worker extends Actor{
                 
                 resC = resC + p(2).toDouble
                 resM = resM + p(3).toDouble
-                resT = resT + (s(0).toDouble * 60 + s(1).toDouble)
+                resT = resT + (s(0).toDouble * 3600 + s(1).toDouble * 60)
                 nProc+= 1
             }
             
             nProcG+= 1
         }
         
-        val r = (resC,resM,resT,nProc,nProcG)
+        val r = (resC,resM,resT,nProc,nProcG) 
         
         pFile.close
         uFile.close
-        
-        println(user + " finalizado")
         
         return r
     }

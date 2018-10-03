@@ -1,0 +1,35 @@
+postgres 
+média de cpu: 49.95782114419097 
+média de memoria: 50.51371638259106
+
+stack 
+média de cpu: 49.9827472941246 
+média de memoria: 50.30231130979621
+
+docker 
+média de cpu: 50.03043868794688 
+média de memoria: 50.41457695083791
+
+ubuntu 
+média de cpu: 50.02867991169935 
+média de memoria: 50.50481477021934
+
+mysql 
+média de cpu: 49.945195886543 
+média de memoria: 50.4328843932481
+
+java 
+média de cpu: 49.94855142462479 
+média de memoria: 50.41245080272397
+
+root 
+média de cpu: 49.965461505404065 
+média de memoria: 50.54908717589573
+
+apache 
+média de cpu: 49.90047664290136 
+média de memoria: 50.40679196174033
+
+Geral: 
+média de cpu: 49.96985689999996 
+média de memoria: 50.44214859999998

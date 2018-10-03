@@ -28,3 +28,25 @@ e criar os arquivos com os dados necessários.
 Na parte final, o mestre irá reutilizar dos processos de divisão de usuário para criar um arquivo que guarda todos
 eles e o PID de cada processo executado por ele. Finalizando o exercício e criando ao todo 11 arquivos.
 
+•	Desenvolvimento:
+
+A aplicação do modelo foi feita com sucesso, e foram usadas como base a perspectiva anotada a cima.
+
+Não houve grandes alterações em relação à arquitetura planejada, sendo apenas feitas pequenas mudanças no código 
+durante o desenvolvimento, para adicionar pequenas melhorias ou corrigir problemas mínimos que surgiram.
+
+Algumas dessas alterações foram a implementação de uma variável contendo todas as linhas do arquivo, 
+ao invés do programa reler o mesmo diversas vezes, e a criação do arquivo PID sendo transferido para o escravo, 
+para escreve-lo enquanto ele faz os processos de média referentes ao exercício 2 e 3.
+
+•	Conclusão:
+
+Como dito anteriormente, não tiveram muitas mudanças no planejado, e o exercício conclui com os 11 arquivos criados
+e sem muita dificuldade.
+
+Pelo exercício proposto, a arquitetura de mestre e escravo foi escolhida por sua simplicidade, e foi mais que 
+o suficiente para o executar sem muitos gargálos, não necessitando de algo mais complexo como cliente e servidor 
+ou peer to peer.
+
+
+
